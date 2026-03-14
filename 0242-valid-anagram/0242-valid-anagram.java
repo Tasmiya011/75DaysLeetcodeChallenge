@@ -6,10 +6,7 @@ class Solution {
         Arrays.sort(a);
         Arrays.sort(b);
 
-        if(Arrays.equals(a,b)){
-            return true;
-        }else{
-            return false;
-        }
+        return Arrays.equals(a,b);
+
     }
 }
