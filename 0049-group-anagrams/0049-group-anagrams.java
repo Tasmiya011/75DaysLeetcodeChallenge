@@ -10,12 +10,16 @@ class Solution {
                 freq[c - 'a']++;
             }
 
-            String key = Arrays.toString(freq);
+            StringBuilder keyBuilder = new StringBuilder();
 
-            if(!map.containsKey(key)){
-                map.put(key, new ArrayList<>());
+            for(int f : freq){
+                keyBuilder.append("#");
+                keyBuilder.append(f);
             }
 
+            String key = keyBuilder.toString();
+
+            map.putIfAbsent(key, new ArrayList<>());
             map.get(key).add(word);
         }
 
