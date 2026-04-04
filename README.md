@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
