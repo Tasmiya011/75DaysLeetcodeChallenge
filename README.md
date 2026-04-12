@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
@@ -151,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
