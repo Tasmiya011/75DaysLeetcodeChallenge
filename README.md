@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
