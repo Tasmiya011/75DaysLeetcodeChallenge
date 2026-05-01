@@ -3,7 +3,7 @@ class Solution {
         if (n < 1) return false;
        
             while(n%2 == 0){
-                n = n/2;
+                n = n/2; //keep dividing until n = 1 then loop will stop & return 
             }
     return n == 1;
     }
