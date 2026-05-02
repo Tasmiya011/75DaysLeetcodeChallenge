@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1518-water-bottles) |
 ## Recursion
