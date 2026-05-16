@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
