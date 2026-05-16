@@ -1,6 +1,6 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        int max = Integer.MIN_VALUE, smax = Integer.MIN_VALUE, maxIdx = 0;
+        int max = Integer.MIN_VALUE, smax = Integer.MIN_VALUE, maxIdx = 0;  //Integer.MIN_VALUE stores the smallest value possible
 
         for(int i=0; i<nums.length; i++){
         if(max < nums[i]){
