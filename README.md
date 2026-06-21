@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1518-water-bottles) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
