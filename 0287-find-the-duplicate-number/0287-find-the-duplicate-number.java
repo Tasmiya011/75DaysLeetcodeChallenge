@@ -1,13 +1,17 @@
 class Solution {
-    public int findDuplicate(int[] nums) {
+    public int findDuplicate(int[] nums) {              //slow - fast pointer
+       int slow = nums[0], fast = nums[0];
 
-        HashSet <Integer> set = new HashSet<>();
-        for(int num : nums){
-            if(set.contains(num)){
-                return num;
-            }
-            set.add(num);
-        }
-        return -1;
+       do{
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+       } while(slow != fast);
+
+       slow = nums[0];
+       while(slow != fast){
+        slow = nums[slow];
+        fast = nums[fast];
+       }
+       return slow;
+       }
     }
-}
