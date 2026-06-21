@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
