@@ -20,9 +20,10 @@ class Solution {
                     k--;
 
                     while(j<k && nums[j] == nums[j-1]) j++;
+                    while (j < k && nums[k] == nums[k + 1]) k--;
                 }
             }
         }
-        return new ArrayList(set);
+        return new ArrayList<>(set);
     }
 }
