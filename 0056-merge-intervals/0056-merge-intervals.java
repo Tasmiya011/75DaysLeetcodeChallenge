@@ -1,0 +1,22 @@
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a,b)->a[0]-b[0]);
+        int str = intervals[0][0];
+        int end = intervals[0][1];
+        List<int []> list = new ArrayList<>();
+        for(int i=0; i<intervals.length; i++){
+        int s = intervals[i][0];
+        int e = intervals[i][1];
+        if(s <= end){
+            end = Math.max(e, end);
+        }else{
+            list.add(new int[]{str, end});
+            str = s;
+            end = e;
+        }
+    }
+    list.add(new int[]{str, end});
+    return list.toArray(new int[list.size()][]);
+        
+    }
+}
