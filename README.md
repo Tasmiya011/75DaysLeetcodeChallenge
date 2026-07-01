@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1518-water-bottles) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Brainteaser
 |  |
 | ------- |
