@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1137-n-th-tribonacci-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
