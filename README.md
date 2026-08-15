@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Tasmiya011/75DaysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
